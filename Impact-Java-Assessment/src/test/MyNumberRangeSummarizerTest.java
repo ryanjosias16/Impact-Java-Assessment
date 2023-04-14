@@ -1,3 +1,7 @@
+/**
+ * @author Ryan Josias
+ **/
+
 package test;
 
 import numberrangesummarizer.MyNumberRangeSummarizer;

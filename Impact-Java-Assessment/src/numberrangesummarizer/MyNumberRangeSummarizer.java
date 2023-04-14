@@ -1,3 +1,7 @@
+/**
+ * @author Ryan Josias
+ **/
+
 package numberrangesummarizer;
 
 import java.util.*;
